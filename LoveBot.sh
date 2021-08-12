@@ -19,4 +19,4 @@ mkdir -p image
 mkdir -p image-new
 
 # 运行python文件
-python bot_test.py
+python bot_test.py #在这里改要执行的.py 文件
